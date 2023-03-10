@@ -1,0 +1,18 @@
+ # generated with HiggsSignals version 2.2.3beta on 10.03.2023 at 14:34
+ # settings: LHC7+8, effC, peak, gaussian
+ #
+ # column abbreviations
+ #   n          : line id of input
+ #   Mh(i)      : Neutral Higgs boson masses in GeV
+ #   Mhplus(i)  : Charged Higgs boson masses in GeV
+ #   csq(mu)    : Chi^2 from the signal strengths observables
+ #   csq(mh)    : Chi^2 from the Higgs mass observables
+ #   csq(tot)   : total Chi^2
+ #   nobs(mu)   : number of signal strength observables
+ #   nobs(mh)   : number of Higgs mass observables
+ #   nobs(tot)  : total number of observables
+#   Pvalue     : Probability, given csq(tot) and ndf=nobs(tot)-  0
+ #
+ #cols:  n           Mh(1)           Mh(2)           Mh(3)           Mh(4)           Mh(5)       Mhplus(1)         csq(mu)         csq(mh)         csq(tot) nobs(mu) nobs(mh) nobs(tot)    Pvalue
+ #
+             1     125.250         315.920         909.231         215.269         749.141         239.414         123.990         7.93106         131.921        85     4   110    -1.00000    
